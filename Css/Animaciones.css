@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+/*
+	*Esta hoja de estilo fue creada para un solo proposito que es el de brindar las tranciciones que tendra la pagina, en colaboracion con JS.
+	- Transiciones a la hora de navegar entre paginas
+	- Transiciones al presionar un boton
+	- Animaciones para hacer la esperiensia de usuario mas agradable
+	
+	* Diseñada por Frankmer
+	* NickName: Franksoft
+	
+*/
+.IndexContent:hover
+{
+	background-color:#86E2D5;
+	box-shadow:1px 3px 1px 1px rgba(0,0,0,0.39);
+}
+#CardsContent
+{
+	position:fixed;
+	bottom:-100%;
+}
